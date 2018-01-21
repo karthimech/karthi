@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int a=10;
-if(a>0)
-printf("positive");
+int d=10;
+if(d>0)
+printf("positie");
 }
